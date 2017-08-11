@@ -1,4 +1,5 @@
 # How do I use this?
+*FIRST, DOWNLOAD THE FILE IN THE **RELEASES** SECTION.*
 1. Install Stylish. [[CHROME]](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en) [[FIREFOX]](https://addons.mozilla.org/en-US/firefox/addon/stylish/) [[OPERA]](https://addons.opera.com/en/extensions/details/stylish/) [[SAFARI (WARNING: NOT SURE IF THIS IS OFFICIALLY SUPPORTED)]](https://github.com/350d/stylish)
 2. Once you have it installed, click the icon.
 3. Click the three dots and then click "Create New Style".
