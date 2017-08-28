@@ -8,3 +8,5 @@
 6. In the section below, the "Applies to URLs on the domain", put **litcharts.com**.
 7. Click save on the top left. 
 8. Make sure Stylish is enabled when you visit LitCharts.
+
+I reported this to LitCharts already. They didn't bother responding.
